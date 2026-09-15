@@ -4,7 +4,7 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-    base: '/SpaceX_Launches/',
+    base: '/SpaceX_Launches_3.2.3_Tugusov_Ivan/',
     plugins: [react()],
     test: {
         globals: true,
